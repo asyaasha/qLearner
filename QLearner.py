@@ -20,10 +20,7 @@ students of CS 7646 is prohibited and subject to being investigated as a
 GT honor code violation. 			  		 			     			  	   		   	  			  	
  			  		 			     			  	   		   	  			  	
 -----do not edit anything above this line--- 			  		 			     			  	   		   	  			  	
- 			  		 			     			  	   		   	  			  	
-Student Name: Asiya Gizatulina (replace with your name) 			  		 			     			  	   		   	  			  	
-GT User ID: agizatulina3 (replace with your User ID) 			  		 			     			  	   		   	  			  	
-GT ID: 903387961 (replace with your GT ID) 			  		 			     			  	   		   	  			  	
+ 			  		 			     			  	   		   	  			  				  		 			     			  	   		   	  			  	
 """ 			  		 			     			  	   		   	  			  	
  			  		 			     			  	   		   	  			  	
 import numpy as np 			  		 			     			  	   		   	  			  	
